@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ice40LP8K")(type "KiCad")(uri "${KIPRJMOD}/library/ICE40LP8K-CM121.kicad_sym")(options "")(descr ""))
+)
