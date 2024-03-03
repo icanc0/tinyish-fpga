@@ -1,0 +1,6 @@
+*.sch-bak
+*.kicad_pcb-bak
+*.net
+_autosave-*.kicad_pcb
+*.xml
+fp-info-cache
