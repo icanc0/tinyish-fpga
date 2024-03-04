@@ -1,0 +1,12 @@
+Warning: Width correction constrained.  The width correction value must be in the range of [0.000001 mm; 0.199999 mm] for the current design rules.
+Plotted to 'C:\Users\Eric\Documents\usbreakout\usbreakout-F_Cu.gbr'.
+Plotted to 'C:\Users\Eric\Documents\usbreakout\usbreakout-B_Cu.gbr'.
+Plotted to 'C:\Users\Eric\Documents\usbreakout\usbreakout-F_Paste.gbr'.
+Plotted to 'C:\Users\Eric\Documents\usbreakout\usbreakout-B_Paste.gbr'.
+Plotted to 'C:\Users\Eric\Documents\usbreakout\usbreakout-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\Eric\Documents\usbreakout\usbreakout-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\Eric\Documents\usbreakout\usbreakout-F_Mask.gbr'.
+Plotted to 'C:\Users\Eric\Documents\usbreakout\usbreakout-B_Mask.gbr'.
+Plotted to 'C:\Users\Eric\Documents\usbreakout\usbreakout-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\Eric\Documents\usbreakout\usbreakout-job.gbrjob'.
+Info: Done.

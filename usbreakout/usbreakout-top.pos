@@ -1,0 +1,9 @@
+### Footprint positions - created on 2024-03-03T18:35:56-0500 ###
+### Printed by KiCad version 8.0.0
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                Package                               PosX       PosY       Rot  Side
+J1        Conn_01x08_Socket  PinSocket_1x08_P2.54mm_Vertical   116.9100   -59.3100   90.0000  top
+J2        Conn_01x08_Socket  PinSocket_1x08_P2.54mm_Vertical   134.5800   -67.0000  -90.0000  top
+U1        TC-005_C6332285    USB-C-SMD_TC-005                  125.8500   -63.2729  180.0000  top
+## End
