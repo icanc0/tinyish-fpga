@@ -5,13 +5,15 @@ on: [push, pull_request]
 jobs:
   generate-schematic:
     runs-on: ubuntu-latest
-    container: kicad/kicad:8.0.0
+    container:
+      image: kicad/kicad:8.0.0
+      options: --user root
     steps:
-    - uses: actions/checkout@v4
-    - name: Generate schematic
-      run: sudo kicad-cli sch export pdf -o Untitled.pdf Untitled.kicad_sch
-    - name: Upload results
-      uses: actions/upload-artifact@v2
-      with:
-        name: output
-        path: Untitled.pdf
+      - uses: actions/checkout@v4
+      - name: Generate schematic
+        run: sudo kicad-cli sch export pdf -o Untitled.pdf Untitled.kicad_sch
+      - name: Upload results
+        uses: actions/upload-artifact@v2
+        with:
+          name: output
+          path: Untitled.pdf
