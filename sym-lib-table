@@ -17,4 +17,5 @@
   (lib (name "X322516MLB4SI")(type "KiCad")(uri "${KIPRJMOD}/library/symbol/X322516MLB4SI.kicad_sym")(options "")(descr ""))
   (lib (name "XC6206P332MR")(type "KiCad")(uri "${KIPRJMOD}/library/symbol/XC6206P332MR.kicad_sym")(options "")(descr ""))
   (lib (name "TYPE-C_24P_QCHT")(type "KiCad")(uri "${KIPRJMOD}/library/symbol/TYPE-C_24P_QCHT.kicad_sym")(options "")(descr ""))
+  (lib (name "DSC1001DI5-024_0000")(type "KiCad")(uri "${KIPRJMOD}/library/symbol/DSC1001DI5-024_0000.kicad_sym")(options "")(descr ""))
 )
