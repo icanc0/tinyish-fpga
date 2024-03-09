@@ -15184,6 +15184,26 @@
 			)
 		)
 	)
+	(global_label "USB_3_TX_N"
+		(shape input)
+		(at 443.23 36.83 180)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify right)
+		)
+		(uuid "1568df22-d1d6-4ee2-9263-244812a730e3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 443.23 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "LED"
 		(shape input)
 		(at 725.17 534.67 180)
@@ -15324,7 +15344,7 @@
 			)
 		)
 	)
-	(global_label "Some pin"
+	(global_label "USB_P"
 		(shape input)
 		(at 574.04 40.64 180)
 		(effects
@@ -15784,46 +15804,6 @@
 			)
 		)
 	)
-	(global_label "Some pin"
-		(shape input)
-		(at 443.23 41.91 180)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify right)
-		)
-		(uuid "5b27e273-e399-4e2a-884a-722f2122dc25")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 443.23 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "Some pin"
-		(shape input)
-		(at 504.19 36.83 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left)
-		)
-		(uuid "5d94c0ec-b4ea-42db-b31b-a118e186f361")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 504.19 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "26A"
 		(shape input)
 		(at 787.4 505.46 180)
@@ -15956,26 +15936,6 @@
 		(uuid "69268558-12b6-45c7-9266-59356c17cb24")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 798.83 443.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "Some pin"
-		(shape input)
-		(at 443.23 39.37 180)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify right)
-		)
-		(uuid "6ae16881-4f88-47a4-a14d-ecc25ec0e9bb")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 443.23 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16424,6 +16384,26 @@
 			)
 		)
 	)
+	(global_label "USB_3_RX_P"
+		(shape input)
+		(at 443.23 39.37 180)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify right)
+		)
+		(uuid "94408215-90a7-4f05-b3e8-3df428c61d44")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 443.23 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "USB_3_TX_P"
 		(shape input)
 		(at 81.28 176.53 180)
@@ -16536,6 +16516,26 @@
 		(uuid "a0ad61f5-0442-473e-b4bf-a0b3bdcbc250")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 635 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "USB_3_TX_P"
+		(shape input)
+		(at 504.19 36.83 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left)
+		)
+		(uuid "a337f815-5379-42ca-ae56-7ab7ba77532f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 504.19 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16676,26 +16676,6 @@
 		(uuid "adcbf967-5eef-4865-b4f3-f23c3d2d5a97")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 795.02 508 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "Some pin"
-		(shape input)
-		(at 443.23 36.83 180)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify right)
-		)
-		(uuid "ae002e85-160d-4f21-a456-a95878fd20dc")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 443.23 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16884,7 +16864,7 @@
 			)
 		)
 	)
-	(global_label "Some pin"
+	(global_label "USB_N"
 		(shape input)
 		(at 574.04 45.72 180)
 		(effects
@@ -17524,6 +17504,26 @@
 			)
 		)
 	)
+	(global_label "USB_3_RX_N"
+		(shape input)
+		(at 443.23 41.91 180)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify right)
+		)
+		(uuid "f8b21846-b98a-4c9f-af80-2d9c70c65b15")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 443.23 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "Some pin"
 		(shape input)
 		(at 574.04 33.02 180)
@@ -17584,7 +17584,7 @@
 			)
 		)
 	)
-	(global_label "Some pin"
+	(global_label "USB_PU"
 		(shape input)
 		(at 574.04 43.18 180)
 		(effects
